@@ -49,3 +49,5 @@ theme: jekyll-theme-minimal
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+logo: /assets/img/logo.png
